@@ -34,5 +34,5 @@ Please refer to the folder named Quantile Estimation. The numerical codes and re
     Please refer to the folder named Regression and classification. Execute ``run_main.sh`` file for training and use ``visualization.ipynb`` to visualize.
 
 # References
-* This repo is built upon the [eTHEOPOULA repo](https://github.com/DongyoungLim/eTHEOPOULA)
+* This repo is built upon the [eTHEOPOULA repo](https://github.com/DongyoungLim/eTHEOPOULA).
 
