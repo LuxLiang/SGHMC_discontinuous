@@ -17,21 +17,21 @@ This repository contains three applications in finance: the multi-period portfol
 
 * **Quantile Estimation** (Section 4.1)
 
-Please refer to the folder named Quantile Estimation. The numerical codes and results are in Quantile_Estimation.ipynb and Quantile_Estimation_Supplement.ipynb.
+Please refer to the folder named Quantile Estimation. The numerical codes and results are in ``Quantile_Estimation.ipynb`` and ``Quantile_Estimation_Supplement.ipynb``.
 
 * **Solving regularized optimization problems using neural network** (Section 4.2)
 
-* * **Transfer Learning** (Section 4.2.1)
+  * **Transfer Learning** (Section 4.2.1)
 
-Please refer to the folder Transfer Learning. Excute model.py file.
+Please refer to the folder Transfer Learning. Excute ``model.py`` file.
 
-* * **Hedging under asymmetric risk** (Section 4.2.2)
+  * **Hedging under asymmetric risk** (Section 4.2.2)
 
-Please refer to the folder named Hedging. Excute run_BS.sh and the results are summarized in plot_Results.ipynb.
+Please refer to the folder named Hedging. Excute ``run_BS.sh`` and the results are summarized in ``plot_Results.ipynb``.
 
-* * **Real-world datasets** (Section 4.2.3)
+  * **Real-world datasets** (Section 4.2.3)
 
-Please refer to the folder named Regression and classification. Excute run_main.sh file for training and use visualization.ipynb to visualize.
+Please refer to the folder named Regression and classification. Excute ``run_main.sh`` file for training and use ``visualization.ipynb`` to visualize.
 
 # References
 * This repo is built upon the [eTHEOPOULA repo](https://github.com/DongyoungLim/eTHEOPOULA)
