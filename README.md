@@ -32,3 +32,7 @@ Please refer to the folder named Hedging. Excute run_BS.sh and the results are s
 **Real-world datasets** (Section 4.2.3)
 
 Please refer to the folder named Regression and classification. Excute run_main.sh file for training and use visualization.ipynb to visualize.
+
+# References
+* This repo is built upon the [eTHEOPOULA repo](https://github.com/DongyoungLim/eTHEOPOULA)
+
