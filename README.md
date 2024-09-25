@@ -27,7 +27,7 @@ Please refer to the folder Transfer Learning. Excute model.py file.
 
 **Hedging under asymmetric risk** (Section 4.2.2)
 
-Please refer to the folder Hedging. Excute run_BS.sh and the results are summarized in plot_Results.ipynb.
+Please refer to the folder named Hedging. Excute run_BS.sh and the results are summarized in plot_Results.ipynb.
 
 **Real-world datasets** (Section 4.2.3)
 
