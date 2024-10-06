@@ -1,6 +1,6 @@
 # Non-asymptotic convergence analysis of the stochastic gradient Hamiltonian Monte Carlo algorithm with discontinuous stochastic gradient with applications to training of ReLU neural networks
 
-This repository is the official implementation of "Non-asymptotic convergence analysis of the stochastic gradient Hamiltonian Monte Carlo algorithm with discontinuous stochastic gradient with applications to training of ReLU neural networks", which can be found [here](https://arxiv.org/abs/2409.17107).
+This repository is the official implementation of "Non-asymptotic convergence analysis of the stochastic gradient Hamiltonian Monte Carlo algorithm with discontinuous stochastic gradient with applications to training of ReLU neural networks", which can be found at https://arxiv.org/abs/2409.17107.
 
 Authors: Luxu LIANG, Ariel Neufeld, and Ying Zhang.
 
